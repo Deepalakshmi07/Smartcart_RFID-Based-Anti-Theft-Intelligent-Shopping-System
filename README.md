@@ -2,7 +2,7 @@
 
 # Overview
 
-The RFID Based Anti-Theft Intelligent Shopping Trolley System is an embedded system project developed using the LPC2124 ARM7 microcontroller and RFID technology. The system is designed to provide automatic billing and improve security in supermarkets. It reduces manual billing effort, minimizes waiting time, and prevents unauthorized exit of products by incorporating an anti-theft mechanism.
+The RFID Based Anti-Theft Intelligent Shopping Trolley System is an embedded system project developed using the LPC2129 ARM7 microcontroller and RFID technology. The system is designed to provide automatic billing and improve security in supermarkets. It reduces manual billing effort, minimizes waiting time, and prevents unauthorized exit of products by incorporating an anti-theft mechanism.
 
 # Technologies Used
 
@@ -24,12 +24,4 @@ The RFID Based Anti-Theft Intelligent Shopping Trolley System is an embedded sys
 * If the payment is completed, the customer is allowed to exit and the system resets for the next user.
 * If the customer attempts to exit without payment, the system detects theft and activates the buzzer as an alert.
 
-# Features
 
-* RFID-based product identification
-* Automatic bill calculation
-* Add and remove product functionality
-* Real-time bill display on LCD
-* Payment verification using RFID
-* Anti-theft detection with buzzer indication
-* User-friendly and low-cost design
