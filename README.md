@@ -7,7 +7,7 @@ The RFID Based Anti-Theft Intelligent Shopping Trolley System is an embedded sys
 # Technologies Used
 
 * Embedded C
-* LPC2124 ARM7 Microcontroller
+* LPC2129 ARM7 Microcontroller
 * RFID Technology
 * UART Communication
 * 16×2 LCD Interface
@@ -16,7 +16,7 @@ The RFID Based Anti-Theft Intelligent Shopping Trolley System is an embedded sys
 # Working
 
 * Each product is attached with an RFID tag containing a unique identification number.
-* The EM-18 RFID reader reads the tag and sends the tag ID to the LPC2124 microcontroller through UART communication.
+* The EM-18 RFID reader reads the tag and sends the tag ID to the LPC2129 microcontroller through UART communication.
 * The user can add or remove products using switches, and the corresponding bill amount is updated automatically.
 * The total bill amount can be viewed on the LCD display.
 * After payment, a payment RFID tag is scanned to confirm the transaction.
