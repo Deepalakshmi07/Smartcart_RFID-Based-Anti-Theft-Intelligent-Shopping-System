@@ -1,4 +1,4 @@
-# RFID Based Anti-Theft Intelligent Shopping System
+# SMARTCART:RFID Based Anti-Theft Intelligent Shopping System
 
 # Overview
 
